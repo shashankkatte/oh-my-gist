@@ -7,3 +7,4 @@ Contains direct links to all my gists. Developers are problem solvers not memory
 |-----|------|--------------|-----|
 |1    | React|React index.js Boiler plate code.|[React-indexjs-boiler-plate.js](https://gist.github.com/shashankkatte/d6bd6e125e88bcf983aafffba23b59a8)|
 |2    |JavaScript|Find user's current location using built in geolocation API|[user-geolocation.js](https://gist.github.com/shashankkatte/130ece8e09b148851e9507be9015582e)|
+|3    | SSH  | How to avoid git/github asking your ssh key on every commit /push |[save-ssh.md](https://gist.github.com/shashankkatte/31f6e345d80d47a4190643548cb4c0fd)|
